@@ -1,2 +1,1 @@
-# programmer
-kod programuje wybranym wsadem,  drukuje etykiete na drukarece Zebra z data i godzina i statusem programowania.
+the code programs the selected batch, prints labels on the Zebra printer with data, time and programming status.
